@@ -58,7 +58,7 @@
         </div>
         <div class="row mt-4">
             <div class="col-12 bg-light py-5 px-4 rounded-5">
-                <span class="align-middle">O resultado da {{ state.operation }} é: {{ state.result }}</span>
+                <span class="align-middle">O resultado da {{ state.operationWord }} é: {{ state.result }}</span>
             </div>
         </div>
     </form>
